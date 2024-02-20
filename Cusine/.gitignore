@@ -1,0 +1,19 @@
+# Ignore virtual environment directories
+venv/
+env/
+.venv/
+
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+
+# Ignore editor/IDE-specific files
+.vscode/
+.idea/
+
+# Ignore local configuration files
+.env
+.env.local
+.env.dev
+.env.prod
